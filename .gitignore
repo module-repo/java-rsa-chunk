@@ -1,0 +1,8 @@
+.idea/
+config*.yml
+*.log
+.DS_Store
+/vendor/
+/target/
+*.pem
+*.key
